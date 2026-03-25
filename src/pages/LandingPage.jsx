@@ -32,7 +32,7 @@ const steps = [
 
 const developers = [
   { name: 'Nikhil Shukla', role: 'Full Stack Developer', skills: ['React', 'Node.js', 'MongoDB'], color: 'from-brand-500 to-teal-500', initials: 'NS' },
-  { name: 'Pavash Singh', role: 'Frontend Engineer', skills: ['UI/UX', 'Tailwind', 'Framer'], color: 'from-blue-500 to-purple-500', initials: 'PS' },
+  { name: 'Pavash Singh', role: 'Frontend Engineer & website manager', skills: ['UI/UX', 'Tailwind', 'Framer'], color: 'from-blue-500 to-purple-500', initials: 'PS' },
   { name: 'Harshvardhan Singh', role: 'Backend Developer', skills: ['API Design', 'Auth', 'DevOps'], color: 'from-amber-500 to-orange-500', initials: 'HS' },
 ]
 
